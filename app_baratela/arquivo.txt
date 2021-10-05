@@ -1,0 +1,7 @@
+Busca --- Search
+meneu latral color
+colocar musica para tocar
+colocar favitar no tablet music
+alinha o nomeCantor e o nomeMusic no centro ou somente no canto
+alocar musicas no banco de dados JSON
+
